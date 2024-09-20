@@ -93,8 +93,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/459f8e04-0d69-405a-bda5-e75cd9ba83bd)
 
 
-
-
 # SIMULATED ARMA(2,2) PROCESS:
 ![image](https://github.com/user-attachments/assets/85501d48-c3e7-4237-846f-69a72dd04bd4)
 
