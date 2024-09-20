@@ -101,7 +101,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/20b73597-f3e8-4e8d-8bec-e43dbee1b129)
 
 
-#Autocorrelation
+# Autocorrelation
 ![image](https://github.com/user-attachments/assets/466860dc-c725-47a0-b40f-2059d3d7dec0)
 
 
