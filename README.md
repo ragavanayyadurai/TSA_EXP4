@@ -80,32 +80,32 @@ plot_pacf(ARMA_2)
 plt.show()
 ```
 
-OUTPUT:
-SIMULATED ARMA(1,1) PROCESS:
+# OUTPUT:
+# SIMULATED ARMA(1,1) PROCESS:
 ![image](https://github.com/user-attachments/assets/2fddebd6-bb87-4200-861a-681afb3f8411)
 
 
-Partial Autocorrelation
+# Partial Autocorrelation
 ![image](https://github.com/user-attachments/assets/00fa6288-c13a-4860-8eb4-774c77c786b3)
 
 
-Autocorrelation
+# Autocorrelation
 ![image](https://github.com/user-attachments/assets/459f8e04-0d69-405a-bda5-e75cd9ba83bd)
 
 
 
 
-SIMULATED ARMA(2,2) PROCESS:
+# SIMULATED ARMA(2,2) PROCESS:
 ![image](https://github.com/user-attachments/assets/85501d48-c3e7-4237-846f-69a72dd04bd4)
 
 
-Partial Autocorrelation
+# Partial Autocorrelation
 ![image](https://github.com/user-attachments/assets/20b73597-f3e8-4e8d-8bec-e43dbee1b129)
 
 
-Autocorrelation
+#Autocorrelation
 ![image](https://github.com/user-attachments/assets/466860dc-c725-47a0-b40f-2059d3d7dec0)
 
 
-RESULT:
+# RESULT:
 Thus, a python program is created to fit ARMA Model for Time Series successfully.
